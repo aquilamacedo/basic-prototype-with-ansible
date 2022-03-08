@@ -1,0 +1,8 @@
+---
+# tasks file for nginx
+- include: install_nginx.yml
+- include: nginx_boot_start.yml
+- include: starting_nginx.yml
+- include: copying_custom_html.yml
+- include: copying_nginx_conf.yml
+- include: copying_nginx_default_ports.yml
