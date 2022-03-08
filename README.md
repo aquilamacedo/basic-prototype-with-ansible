@@ -1,2 +1,2 @@
 # basic-prototype-with-ansible
-Learning Ansible basics
+Learning Ansible fundamentals and applications.
